@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Aditya {
 
 	public static void main(String[] args) {
-		
+		//fwfwfwrfwfffwfwf
        test1(77,99);
        test2();
     }
